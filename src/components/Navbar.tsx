@@ -100,7 +100,7 @@ const Navbar: React.FC = () => {
           <NavLink to="/" className="flex items-center space-x-2">
             <Shield className="h-7 w-7 text-[#dbc12d]" />
             <span className="font-display font-bold text-xl sm:text-2xl text-[#dbc12d]">
-              Military Prep
+              MilitaryPrep
             </span>
           </NavLink>
 
