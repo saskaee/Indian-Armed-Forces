@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="md:col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <Shield className="h-6 w-6 text-[#dbc12d]" />
-              <span className="font-display font-bold text-lg text-[#dbc12d]">INDIAN ARMED FORCES</span>
+              <span className="font-display font-bold text-lg text-[#dbc12d]">MilitaryPrep</span>
             </div>
             <p className="text-neutral-300 text-sm">
               Serving the nation with pride and honor since 1947. Defenders of our sovereignty and integrity.
@@ -59,7 +59,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="mt-8 pt-4 border-t border-neutral-700 text-center text-neutral-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} Indian Armed Forces. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} MilitaryPrep. All rights reserved.</p>
           <p className="mt-1">This is a model website created for educational purposes.</p>
         </div>
       </div>
